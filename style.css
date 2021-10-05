@@ -1,0 +1,13 @@
+body {
+    background: #000000;
+    background-image: url(https://legends.goalunited.org/wp-content/uploads/2019/01/Ingame_Background_GU_Legends_full.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-content {
+    min-height: 700px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 2rem;
+}
